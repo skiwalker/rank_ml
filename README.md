@@ -1,6 +1,7 @@
 # Instalaçao de dependencias
 
 pip3 install scikit-learn numpy scipy pandas
+
 pip install scikit-learn numpy scipy pandas
 
 # Rodar exemplo
